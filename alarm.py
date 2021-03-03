@@ -27,3 +27,4 @@ def alarm():
                 break
     except Exception as e:
         print(e)
+alarm()
