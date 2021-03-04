@@ -1,5 +1,7 @@
 import time
 import datetime
+import pyttsx3
+import pyaudio
 
 
 def alarm():
